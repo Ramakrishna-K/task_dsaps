@@ -1,2 +1,2 @@
 # task_dsaps
-i practiced 4 task using javascript.js and i have learned array , string , objects , set, Stack, Queue 
+I have completed hands-on practice with 4 mini projects/tasks using JavaScript and learned the following fundamental data structures
